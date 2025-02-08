@@ -27,7 +27,7 @@ This is a simple number guessing game where the player tries to guess a randomly
 2. Open a terminal or command prompt and navigate to the file location.
 3. Run the script using the command:
    ```bash
-   python filename.py
+   python main.py
    ```
 
 ## Example Gameplay
